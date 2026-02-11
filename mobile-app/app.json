@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "Spark Dating",
+    "slug": "spark-dating",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "ios": {
+      "bundleIdentifier": "com.sparkdating.fast"
+    },
+    "android": {
+      "package": "com.sparkdating.fast"
+    }
+  }
+}
