@@ -1,0 +1,10 @@
+{
+  "rules": {
+    "chats": {
+      "$matchId": {
+        ".read": "auth != null",
+        ".write": "auth != null"
+      }
+    }
+  }
+}
